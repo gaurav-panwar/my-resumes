@@ -12,7 +12,7 @@ panwar.gaurav93@gmail.com
 ## EMPLOYMENT
 
 **Product Developer, Intern Reader’s Destination Library June 2014 - July 2014**
-_Developed a system for maintaining a database for books, customers, issued books, etc._
+_Developed a system for maintaining a database for the efficient management of the library._
  Used SQL and various database management techniques to give a firm back-end to the system.
  Efficiently managed and manipulated data to provide more intuitive information that is useful in the management
 of the Library.
@@ -28,7 +28,7 @@ the Organization.
 ## EDUCATION
 
 ```
- Pursuing B. Tech in Computer Engineering from Delhi Technological University, Delhi ( 2012 - 2016 )* with 68 %
+ Pursuing B. Tech in Computer Engineering from Delhi Technological University, Delhi (2012-2016)* with 68 %
 aggregate.
  Completed Secondary School Education ( 12 th Class) from St. Xavier’s School, Rohini (CBSE) in 2012 with 91.8%
 marks.
@@ -55,6 +55,4 @@ track of the aircrafts available with them or to compare potential new buys.
  Organized 1 st DTU Great Run, 2013 : mini Marathon within DTU premises.
  Was the Sports Captain (Naidu House) School Student Council(2011-2012).
 ```
-
-
 
