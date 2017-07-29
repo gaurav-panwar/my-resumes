@@ -1,23 +1,32 @@
 ```
 1
 ```
-# GAURAV KISHORE PANWAR
+E-4/21, G.F., Sector- 16 ,
+
+Rohini, Delhi, India
+
+# GA U R A V PA N W A R
 
 ```
-panwar_gaurav@hotmail.com | +91 9958365151
++91- 9958365151
+```
+```
+panwar_gaurav@hotmail.com
 ```
 ## Education
 
-**2012 - 2016*** Pursuing **B.Tech.(Computer Engineering)** From Delhi Technological
-University. **Secured 68 % marks** (Aggregate till date).
-
 ```
-2012 XIIth (A.I.S.S.C.E), From St. Xavier’s School, Rohini (C.B.S.E. Board).
+2012 - 2016 * Pursuing B.Tech.(Computer Engineering) from Delhi Technological
+University. Secured 68 % marks (Aggregate till date).
+```
+```
+2012 XII (A.I.S.S.C.E), From St. Xavier’s School, Rohini (C.B.S.E. Board).
 Secured 91.8% marks.
 ```
-**2010 Xth** (A.I.S.C.E.), From St. Xavier’s School, Rohini (C.B.S.E. Board).
-**Secured 9.6 (C.G.P.A.)**.
-
+```
+2010 X (A.I.S.C.E.), From St. Xavier’s School, Rohini (C.B.S.E. Board).
+Secured 9.6 (C.G.P.A.).
+```
 ## Projects Undertaken
 
 ```
@@ -40,7 +49,7 @@ Duration 2 months (June 2014)
 ```
 ```
 Overview The project aimed at developing a system to maintain a database for
-customers, books, issued books and manipulate it to provide various
+customers, books, issued books and manipulate it to provide intuitive
 information to help the library management in maintaining the
 library.
 ```
@@ -49,20 +58,20 @@ library.
 ```
 1. Organised The DTU Great Run 2013
 2. Took C/C++ IDG organised By CSI
- Took classes to make newcomers become comfortable and proficient in these
-important programming languages for enhancing their careers.
+ Took classes to make newcomers comfortable and proficient in these important
+programming languages for enhancing their careers.
 ```
 ## Positions of Responsibility
 
 ```
  Sports Captain (Naidu House) School Student Council(2011-2012)
+o Skills Gained :
 ```
 
 ```
 2
 ```
 ```
-o Skills Gained :
  Leading with Authority Not with Power
  Power of Team Work
  Self Confidence and Respect
@@ -78,14 +87,8 @@ Debates/Elocutions competitions at school level.
 
 ```
 Reading (Novels and Self Help Books), Playing Football, Dancing,
-Listening to music
+Listening to music.
 ```
-## Personal Dossier
-
-**Date of Birth** December 17, 1993
-
-**Address** E-4/21, Ground Floor, Sector-16, Rohini, Delhi - 110089
-
 ## References
 
 ```
@@ -94,6 +97,6 @@ Address: North Ex Mall, Sector-9, Rohini, Delhi.
 Website: http://www.readersdestination.com/
 Contact: 7428288993, 8826373860
 ```
-Date: August 23, 2014 Place: New Delhi
+Date: February 10 , 2014 Place: New Delhi
 
 
