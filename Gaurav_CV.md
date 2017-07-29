@@ -9,7 +9,7 @@ panwar_gaurav@hotmail.com | +91 9958365151
 ## Education
 
 **2012 - 2016 *** Pursuing **B.Tech.(Computer Engineering)** From Delhi Technological
-University. **Secured 65. 04 % marks** (Aggregate till date).
+University. **Secured 66. 54 % marks** (Aggregate till date).
 
 ```
 2012 XII (A.I.S.S.C.E), From St. Xavier’s School, Rohini (C.B.S.E. Board).
@@ -20,8 +20,9 @@ Secured 91.8% marks.
 
 ## Projects Undertaken
 
-**1. Title** **_Aircraft Management System_** (in C++)
-
+```
+1. Title Aircraft Management System (in C++)
+```
 ```
 Duration 2 months (May 2012)
 ```
@@ -30,9 +31,10 @@ Overview The project aimed at developing a system to keep the various details
 of an aircraft fleet which can be used by air forces, airports and
 hangars around the world.
 ```
-**2. Title** **_Library Management System_**
-    for Reader’s Destination Library^1 (in SQL)
-
+```
+2. Title Library Management System
+for Reader’s Destination Library^1 (in SQL)
+```
 ```
 Duration 2 months (June 2014)
 ```
@@ -44,11 +46,12 @@ library.
 ```
 ## Co- Curriculur Activities
 
-**1. Organised The DTU Great Run 2013
-2. Took C/C++ IDG organised By CSI**
-     Took classes to make newcomers become comfortable and proficient in these
-       important programming languages for enhancing their careers.
-
+```
+1. Organised The DTU Great Run 2013
+2. Took C/C++ IDG organised By CSI
+ Took classes to make newcomers become comfortable and proficient in these
+important programming languages for enhancing their careers.
+```
 ## Positions of Responsibility
 
 ```
@@ -86,11 +89,12 @@ Listening to music
 
 ## References
 
-1. **Reader’s Destination Library** :
-    Address: North Ex Mall, Sector-9, Rohini, Delhi.
-    Website: [http://www.readersdestination.com/](http://www.readersdestination.com/)
-    Contact: 7428288993, 8826373860
-
+```
+1. Reader’s Destination Library :
+Address: North Ex Mall, Sector-9, Rohini, Delhi.
+Website: http://www.readersdestination.com/
+Contact: 7428288993, 8826373860
+```
 Date: August 23, 2014 Place: New Delhi
 
 
