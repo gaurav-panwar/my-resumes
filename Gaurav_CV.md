@@ -4,7 +4,7 @@
 # GAURAV KISHORE PANWAR
 
 ```
-gauraviaf1993@gmail.com | +91 9811089795
+panwar_gaurav@hotmail.com | +91 9958365151
 ```
 ## Education
 
