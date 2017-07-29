@@ -31,10 +31,12 @@ proactive management of the library.
 
 ## ACADEMIC PROJECTS
 
-**1. Efficiency Optimization of Wireless Sensor Networks Jan 2015 – May 2015**
+**1. Novel Approach for Impulse Noise Removal Aug 2015 – Dec 2015**
+ Proposed a new method for Salt and Pepper Noise Reduction in images.
+ Tested with Images of different characteristics, corrupted with a wide range of Impulsive Noise Densities.
+
+**2. Efficiency Optimization of Wireless Sensor Networks Jan 2015 – May 2015**
      Proposed and Simulated an Optimized version of the LEACH protocol for Wireless Sensor Networks.
-**2. File Comparison and Merging Tool Aug 2014 – Dec 2014**
-     Developed an application for the Comparison and Merging of Files.
 
 **3. Aircraft Management System May 2012 – Jul 2012**
  Developed a system (using C++) to keep track of various data pertaining to aero planes and fighter jets.
