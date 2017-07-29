@@ -7,7 +7,7 @@ Rohini, Delhi, India
 
 ```
 +91- 9958365151
-panwar_gaurav@hotmail.com
+panwar.gaurav93@gmail.com
 ```
 ## EMPLOYMENT
 
@@ -28,7 +28,8 @@ the Organization.
 ## EDUCATION
 
 ```
- Pursuing B. Tech in Computer Engineering from Delhi Technological University, Delhi. Aggregate : 68 %
+ Pursuing B. Tech in Computer Engineering from Delhi Technological University, Delhi ( 2012 - 2016 )* with 68 %
+aggregate.
  Completed Secondary School Education ( 12 th Class) from St. Xavier’s School, Rohini (CBSE) in 2012 with 91.8%
 marks.
  Completed Matriculate School Education ( 10 th Class) from St. Xavier’s School, Rohini (CBSE) in 2010. CGPA : 9.
@@ -36,7 +37,7 @@ marks.
 ## TECHNICAL EXPERIENCE
 
 **Projects**
- **Aircraft Management System** ( 2012 ) : Developed a system (using C++) to keep track of various data pertaining to
+ **Aircraft Management System** (2012) : Developed a system (using C++) to keep track of various data pertaining to
 airplanes and fighter jets.
  The system can be used by various airports, hangars, aircraft carriers or organizations to effectively keep
 track of the aircrafts available with them or to compare potential new buys.
@@ -52,7 +53,8 @@ track of the aircrafts available with them or to compare potential new buys.
 ```
  Organized the C/C++ IDG under CSI.
  Organized 1 st DTU Great Run, 2013 : mini Marathon within DTU premises.
- Was the Sports Captain (Naidu House) School Student Council( 2011 - 2012 ).
+ Was the Sports Captain (Naidu House) School Student Council(2011-2012).
 ```
+
 
 
