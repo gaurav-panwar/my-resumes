@@ -1,12 +1,11 @@
-
-**Block E-4, House No. 21, G.F.,**
- **Sector-16, Rohini, Delhi- 89**
+**_Block E-4, House No. 21, G.F.,_**
+**_Sector-16, Rohini, Delhi- 89_**
 
 # GAURAV KISHORE
 # PANWAR
 
-**+91- 995 - 836 - 5151**
-**panwar.gaurav93@gmail.com**
+**_+91- 995 - 836 - 5151_**
+**_panwar.gaurav93@gmail.com_**
 
 ## EDUCATION
 
@@ -36,12 +35,15 @@ proactive management of the library.
      Developed a system (using C++) to keep track of various data pertaining to aero planes and fighter jets.
      The system can be utilized by various airports, hangars, aircraft carriers or organizations to effectively keep
        track of the aircrafts available with them or to compare potential new buys.
+**2. Efficiency Optimization of Wireless Sensor Networks**
+     Proposed and Implemented an Optimized version of the LEACH protocol for Wireless Sensor Networks.
+**3. File Comparison and Merging Tool**
+     Developed an application for the Comparison and Merging of Files.
 
 ## ACADEMIC ACHIEVEMENTS AND AWARDS
 
 ```
- Awarded ‘ All Round Excellence Award’ (2008-2009) in Class IXth for excellence in all fields (namely
-Academics, Sports and other Co-Curriculars).
+ Awarded ‘ All Round Excellence Award’ (2008-2009) in Class IXth.
  Awarded ‘Certificates of Merit’ in each class for Outstanding Achievement in Academics in School.
  Participated and Won many Debates/Academic competitions at School level.
 ```
@@ -53,8 +55,7 @@ Academics, Sports and other Co-Curriculars).
  Organized the 2 nd DTU Great Run , 2014.
 ```
 ## LANGUAGES AND TECHNOLOGIES
-
-``` 
+```
  C ; C++; JAVA ; HTML ; CSS ; JAVASCRIPT ; SQL ;
 ```
 
