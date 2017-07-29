@@ -11,9 +11,9 @@ panwar.gaurav93@gmail.com_**
 ## EDUCATION
 
 ```
-B.Tech., Computer Engineering 2012 - 2016 Delhi Technological University 70.45%
-Class XIIth, AISSCE (CBSE) 2012 St. Xavier’s School, Rohini, Delhi 91.8%
-Class Xth , AISCE (CBSE) 2010 St. Xavier’s School, Rohini, Delhi 9.6(CGPA)
+B.Tech., Computer Engineering 2012 - 2016 Delhi Technological University 71.42 %
+Class XIIth, AISSCE (CBSE) 2012 St. Xavier’s School, Rohini, Delhi 91.8 %
+Class Xth , AISCE (CBSE) 2010 St. Xavier’s School, Rohini, Delhi 9.6 (CGPA)
 ```
 ## EMPLOYMENT
 
