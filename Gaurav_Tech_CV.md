@@ -1,22 +1,19 @@
-``` 
-Block E-4, House No. 21, G.F.,
-Sector-16, Rohini, Delhi- 89
-```
+
+**Block E-4, House No. 21, G.F.,**
+ **Sector-16, Rohini, Delhi- 89**
 
 # GAURAV KISHORE
 # PANWAR
 
-```
-+91- 995 - 836 - 5151
-panwar.gaurav93@gmail.com
-```
+**+91- 995 - 836 - 5151**
+**panwar.gaurav93@gmail.com**
 
 ## EDUCATION
 
 ```
-B.Tech , Computer Engineering 2012 - 2016* Delhi Technological University 70.16% Top 25
-Class XII , AISSCE (CBSE) 2012 St. Xavier’s School, Rohini, Delhi 91.8% 2 nd
-Class X , AISCE (CBSE) 2010 St. Xavier’s School, Rohini, Delhi 9.6(CGPA) 3 rd
+B. Tech , Computer Engineering 2012 - 2016* Delhi Technological University 70.16%
+Class XII , AISSCE (CBSE) 2012 St. Xavier’s School, Rohini, Delhi 91.8%
+Class X , AISCE (CBSE) 2010 St. Xavier’s School, Rohini, Delhi 9.6(CGPA)
 ```
 ## EMPLOYMENT
 
@@ -27,14 +24,6 @@ Developed a Leave Management System for the Company using SAP ERP 6.0.
  Learnt about the System Applications and Products’ Enterprise Resource Planning software suite.
  Learnt and used the Advanced Business Application Programming (ABAP) language to develop the project.
 ```
-**Computer Networking Intern HUDCO Dec 2014 - Jan 2015**
-_Learnt about the various Computer Networking techniques and Devices used in the industry._
- Studied Networking techniques in detail at the CCNA level.
- Configured various networking device (Routers/Switches) using the CISCO iOS operating system and CLI for
-networking devices.
- Understood the various problems faced under actual circumstances and thus studied the networking
-structure at the Organization.
-
 **Product Developer, Intern Reader’s Destination Library Jun 2014 – Aug 2014**
 _Developed a system for the Efficient Management of the Library._
  Used SQL and various DBMS techniques to give a firm back end to the system.
@@ -65,6 +54,7 @@ Academics, Sports and other Co-Curriculars).
 ```
 ## LANGUAGES AND TECHNOLOGIES
 
-  C ; C++; JAVA ; HTML ; CSS ; JAVASCRIPT ; SQL ;
-
+``` 
+ C ; C++; JAVA ; HTML ; CSS ; JAVASCRIPT ; SQL ;
+```
 
