@@ -9,10 +9,10 @@ panwar.gaurav93@gmail.com_**
 
 ### EDUCATION
 
-| **B.Tech.**, *Computer Engineering* | 2012 - 2016 | Delhi Technological University | 70.45 % |
+| B.Tech., Computer Engineering | 2012 - 2016 | Delhi Technological University | 70.45 % |
 |:-------------:|:-------------:|:-------------:|:-------------:|
-| **Class XIIth** , AISSCE (CBSE)  | 2012 | **St. Xavier’s School, Rohini, Delhi** | **91.8** % |
-| **Class Xth** , AISCE (CBSE) | 2010 | **St. Xavier’s School, Rohini, Delhi** | **9.6** (CGPA) |
+| **Class XIIth** , AISSCE (CBSE)  | _2012_ | **St. Xavier’s School, Rohini, Delhi** | **91.8** % |
+| **Class Xth** , AISCE (CBSE) | _2010_ | **St. Xavier’s School, Rohini, Delhi** | **9.6** (CGPA) |
 
 ### EMPLOYMENT
 | Full Stack Developer | NIIT Technologies Limited | Jul 2016 - Jul 2017 |
@@ -56,11 +56,11 @@ construction.
 * MEAN Stack(AngularJS, NodeJS, ExpressJS, MongoDB) | JAVA | JavaScript | C | C++ | jQuery | HTML | CSS | SQL |
 
 ### ACADEMIC ACHIEVEMENTS AND AWARDS
-* Awarded **‘** **_All Round Excellence Award’_** (2008-2009).
+* Awarded **‘** **_All Round Excellence Award’_** (_2008-2009_).
 * Awarded **‘Certificates of Merit’** in each class for **_Outstanding Achievement in Academics_** in School.
 * Participated and **Won many Debates/Academic competitions** at School level.
 
 ### POSITIONS OF RESPONSIBILITY
-* Was **Sports Captain** (Naidu House), School Student Council (2011-2012).
-* Organized the **C/C++ IDG** under CSI (2013).
-* Organized the **2 nd DTU Great Run** , 2014.
+* Was **Sports Captain** (_Naidu House_), School Student Council (_2011-2012_).
+* Organized the **C/C++ IDG** under CSI (_2013_).
+* Organized the **2 nd DTU Great Run** , _2014_.
