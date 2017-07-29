@@ -30,34 +30,27 @@ panwar.gaurav93@gmail.com_**
 
 ### PROJECTS
 
-
-| 1. | Mobile Application for a US based StartUp | May 2017 - Aug 2017 |
+| 1. | Mobile Application for a US based StartUp | Jan 2017 - Aug 2017 |
 |:-------------:|:-------------:|:-------------:|
 * Followed Test Driven Development (TDD) to give the application a firm Back-End using Node JS, AWS, Chai-Mocha-Sinon JS and Swagger API documentation.
 
-| 2. | Website Development for a major European Carrier | Jan 2017 - Apr 2017 |
+| 2. | Website Development for a major European Carrier | Jul 2016 - Dec 2016 |
 |:-------------:|:-------------:|:-------------:|
 * Worked on the beta version of the Website using latest technologies and frameworks like AngularJS, JavaScript, Java, SQL, HTML and CSS.
 
-| 3. | Collaba : A Corporate Collaboration Application | Oct 2016 - Dec 2016 |
-|:-------------:|:-------------:|:-------------:|
-* Developed a Collaboration SPA (Single Page Application) using the MEAN Stack technologies.
-* The Application allowed users could create Organizations, Teams and Channels to chat with colleagues and share images and files.
-
-| 4. | Silver-Screen Movie Portal | Jul 2016 - Sep 2016 |
-|:-------------:|:-------------:|:-------------:|
-* Developed a Web portal using JAVA, MySQL and associated frameworks.
-* The portal allowed users to view shows and book movie tickets online.
 
 ### LANGUAGES AND TECHNOLOGIES
+
 * **_MEAN_** **Stack** _(AngularJS, NodeJS, ExpressJS, MongoDB)_ | **JAVA** | **JavaScript** | **C** | **C++** | **SQL** | **_Chai-Mocha-Sinon_** **JS** | **jQuery** | **HTML** | **CSS** |
 
 ### ACADEMIC ACHIEVEMENTS AND AWARDS
+
 * Awarded **‘** **_All Round Excellence Award’_**, _2008-2009_.
 * Awarded **‘Certificates of Merit’** in each class for **_Outstanding Achievement in Academics_** in School.
 * Participated and **Won many Debates/Academic competitions** at School level.
 
 ### POSITIONS OF RESPONSIBILITY
+
 * Was **Sports Captain** (_Naidu House_), School Student Council, _2011-2012_.
 * Organized the **C/C++ IDG** under CSI, _2013_.
 * Organized the **2<sup>nd</sup> DTU Great Run**, _2014_.
