@@ -8,7 +8,7 @@ gauraviaf1993@gmail.com | +91 9811089795
 ```
 ## Education
 
-**2012 - 2016** Pursuing **B.Tech.(Computer Engineering)** From Delhi Technological
+**2012 - 2016 *** Pursuing **B.Tech.(Computer Engineering)** From Delhi Technological
 University. **Secured 65. 04 % marks** (Aggregate till date).
 
 ```
@@ -91,6 +91,6 @@ Listening to music
     Website: [http://www.readersdestination.com/](http://www.readersdestination.com/)
     Contact: 7428288993, 8826373860
 
-Date: August 23 , 2014 Place: New Delhi
+Date: August 23, 2014 Place: New Delhi
 
 
