@@ -53,9 +53,6 @@ Debates/Elocutions competetions at school level.
 Reading (Novels and Self Help Books), Dancing, Playing Football
 
 
-```
-2
-```
 ## Personal Dossier
 
 **Date of Birth** December 17, 1993
