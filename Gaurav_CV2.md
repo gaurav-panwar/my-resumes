@@ -1,9 +1,7 @@
 E-4/21, G.F., Sector- 16 ,
 Rohini, Delhi, India
 
-# GA U R A V KI S H O R E
-
-# PA N W A R
+# GAURAV KISHORE PANWAR
 
 ```
 +91- 9958365151
@@ -28,7 +26,7 @@ the Organization.
 ## EDUCATION
 
 ```
- Pursuing B. Tech in Computer Engineering from Delhi Technological University, Delhi (2012-2016)* with 68 %
+ Pursuing B. Tech in Computer Engineering from Delhi Technological University, Delhi (2012-2016)* with 69.28%
 aggregate.
  Completed Secondary School Education ( 12 th Class) from St. Xavier’s School, Rohini (CBSE) in 2012 with 91.8%
 marks.
@@ -55,4 +53,3 @@ track of the aircrafts available with them or to compare potential new buys.
  Organized 1 st DTU Great Run, 2013 : mini Marathon within DTU premises.
  Was the Sports Captain (Naidu House) School Student Council(2011-2012).
 ```
-
