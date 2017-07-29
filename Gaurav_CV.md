@@ -8,14 +8,14 @@ panwar_gaurav@hotmail.com | +91 9958365151
 ```
 ## Education
 
-**2012 - 2016 *** Pursuing **B.Tech.(Computer Engineering)** From Delhi Technological
-University. **Secured 66. 54 % marks** (Aggregate till date).
+**2012 - 2016*** Pursuing **B.Tech.(Computer Engineering)** From Delhi Technological
+University. **Secured 68 % marks** (Aggregate till date).
 
 ```
-2012 XII (A.I.S.S.C.E), From St. Xavier’s School, Rohini (C.B.S.E. Board).
+2012 XIIth (A.I.S.S.C.E), From St. Xavier’s School, Rohini (C.B.S.E. Board).
 Secured 91.8% marks.
 ```
-**2010 X** (A.I.S.C.E.), From St. Xavier’s School, Rohini (C.B.S.E. Board).
+**2010 Xth** (A.I.S.C.E.), From St. Xavier’s School, Rohini (C.B.S.E. Board).
 **Secured 9.6 (C.G.P.A.)**.
 
 ## Projects Undertaken
@@ -69,8 +69,7 @@ o Skills Gained :
 ```
 ## Skill Set
 
-**IT** Proficient in C/C++, JAVA, SQL and HTML. Working Knowledge Of
-Python.
+**IT** Proficient in C/C++, JAVA, SQL and HTML.
 
 **Communication Skills** Well versed in English and Hindi. Participated and won many
 Debates/Elocutions competitions at school level.
@@ -78,7 +77,7 @@ Debates/Elocutions competitions at school level.
 ## Interests/Hobbies
 
 ```
-Reading (Novels and Self Help Books), Dancing, Playing Football,
+Reading (Novels and Self Help Books), Playing Football, Dancing,
 Listening to music
 ```
 ## Personal Dossier
