@@ -18,13 +18,15 @@ panwar.gaurav93@gmail.com_**
 ### EMPLOYMENT
 
 | Full Stack Developer | NIIT Technologies Limited | Jul 2016 - Jul 2017 |
-| _Working as a Full Stack Developer using latest technologies._ |
+|:---:|:---:|:---:|:---:|
+| --- | _Working as a Full Stack Developer using latest technologies._ | --- | 
 * Working on developing Websites/Mobile applications for the company using latest technologies,
 frameworks and industry best practices.
 * Developed fully from Front-end to Back-end Using technologies like JAVA, JS, MEAN Stack, HTML, CSS, etc.
 
 | Product Developer, Intern | Reader’s Destination Library | Jun 2015 – Aug 2015 |
-| _Developed a system for the Efficient Management of the Library._| 
+|:---:|:---:|:---:|:---:|
+|---| _Developed a system for the Efficient Management of the Library._|---| 
 * Used SQL and various DBMS techniques to give a firm back end to the system.
 * Efficiently managed and manipulated data to provide more intuitive information that is useful for the
 proactive management of the library.
