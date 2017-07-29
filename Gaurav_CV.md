@@ -53,13 +53,13 @@ library.
 
 ```
  Sports Captain (Naidu House) School Student Council(2011-2012)
-o Skills Gained :
 ```
 
 ```
 2
 ```
 ```
+o Skills Gained :
  Leading with Authority Not with Power
  Power of Team Work
  Self Confidence and Respect
