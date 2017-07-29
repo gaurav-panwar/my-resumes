@@ -9,7 +9,7 @@ gauraviaf1993@gmail.com | +91 9811089795
 ## Education
 
 **2012 - 2016** Pursuing **B.Tech.(Computer Engineering)** From Delhi Technological
-University. **Secured 64.11% marks** (Aggregate till date).
+University. **Secured 65. 04 % marks** (Aggregate till date).
 
 ```
 2012 XII (A.I.S.S.C.E), From St. Xavier’s School, Rohini (C.B.S.E. Board).
@@ -87,10 +87,10 @@ Listening to music
 ## References
 
 1. **Reader’s Destination Library** :
-    Address: North Ex Mall, Sector- 9 , Rohini, Delhi.
+    Address: North Ex Mall, Sector-9, Rohini, Delhi.
     Website: [http://www.readersdestination.com/](http://www.readersdestination.com/)
     Contact: 7428288993, 8826373860
 
-Date: July 25, 2014 Place: New Delhi
+Date: August 23 , 2014 Place: New Delhi
 
 
