@@ -63,4 +63,4 @@ construction.
 ### POSITIONS OF RESPONSIBILITY
 * Was **Sports Captain** (_Naidu House_), School Student Council (_2011-2012_).
 * Organized the **C/C++ IDG** under CSI (_2013_).
-* Organized the **2 nd DTU Great Run** , _2014_.
+* Organized the **2nd DTU Great Run** , _2014_.
