@@ -50,7 +50,7 @@ panwar.gaurav93@gmail.com_**
 * The portal allowed users to view shows and book movie tickets online.
 
 ### LANGUAGES AND TECHNOLOGIES
-* **_MEAN_** **Stack** _(AngularJS, NodeJS, ExpressJS, MongoDB)_ | **JAVA** | **JavaScript** | **C** | **C++** | **SQL** | **jQuery** | **HTML** | **CSS** |
+* **_MEAN_** **Stack** _(AngularJS, NodeJS, ExpressJS, MongoDB)_ | **JAVA** | **JavaScript** | **C** | **C++** | **SQL** | **_Chai-Mocha-Sinon_** **JS** | **jQuery** | **HTML** | **CSS** |
 
 ### ACADEMIC ACHIEVEMENTS AND AWARDS
 * Awarded **‘** **_All Round Excellence Award’_**, _2008-2009_.
