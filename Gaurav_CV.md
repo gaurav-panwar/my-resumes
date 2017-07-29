@@ -1,3 +1,6 @@
+```
+1
+```
 # GAURAV KISHORE PANWAR
 
 ```
@@ -6,7 +9,7 @@ gauraviaf1993@gmail.com | +91 9811089795
 ## Education
 
 **2012 - 2016** Pursuing **B.Tech.(Computer Engineering)** From Delhi Technological
-University. **Secured 69.33% marks** in Second Semester.
+University. **Secured 64.11% marks** (Aggregate till date).
 
 ```
 2012 XII (A.I.S.S.C.E), From St. Xavier’s School, Rohini (C.B.S.E. Board).
@@ -37,7 +40,7 @@ world.
 ```
  Sports Captain (Naidu House) School Student Council(2011-2012)
 o Skills Gained :
- Leading with authority Not with power
+ Leading with Authority Not with Power
  Power of Team Work
  Self Confidence and Respect
 ```
@@ -53,6 +56,9 @@ Debates/Elocutions competetions at school level.
 Reading (Novels and Self Help Books), Dancing, Playing Football
 
 
+```
+2
+```
 ## Personal Dossier
 
 **Date of Birth** December 17, 1993
